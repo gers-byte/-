@@ -1,0 +1,12 @@
+print('Hi,PyCarm')
+x=43
+y=32
+print(x*y)
+print("End Line")
+   
+C:\Users\Дмитрий\New Project\pythonProject1\.venv\Scripts\python.exe" "C:\Users\Дмитрий\New Project\pythonProject1\main.py" 
+Hi,PyCarm
+1376
+End Line
+
+Process finished with exit code 0
